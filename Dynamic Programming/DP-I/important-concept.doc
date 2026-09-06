@@ -1,0 +1,43 @@
+1. Fibonacci
+ a. Climbing Stairs
+ b. Number Factors
+ c. Min Jumps to reach the end
+ d. Min Jumps with cost
+ e. House robber
+
+2. 0-1 Knapsack
+ a. Subset Sum
+ b. Equal Subset Sum partition
+ c. Min Subset Sum Difference
+ d. Count of Subset Sum
+ e. Targer Sum
+
+3. Unbounded Knapsack
+ a. Rod Cutting
+ b. Coin Change
+ c. Min Coin Change
+ d. Max Ribbon Cut
+
+4. MCM (Matric Chain Multiplication)
+ a. Word Break
+ b. Palindromic Partitioning
+ c. Minimum Partitioning
+
+5. LSC (Longest Common Subsequence)
+ a. Longest Common Substring
+ b. Edit Distance
+ c. Box Stacking
+ d. Longest Increasing Subsequence
+ e. Longest Bitonic Subsequence
+ f. Subsequence Pattern Matching
+ g. Min Add/Delete to convert one
+ h. String to another
+
+6. Catalan Number
+ a. No. of BSTs
+ b. N Parentheses
+ c. Convex Polygons
+ d. Disjoint Chords
+ e. Catalan Triangle
+ f. Mountain Ranges
+ g. Dyck Works
